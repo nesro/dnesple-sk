@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Dnes plesk?</h1>
+<p>
+	ANO!
+	<!-- mrkni na kalendar: <a
+		href="https://calendar.google.com/calendar/u/0?cid=ZjUwZGE1MTI5YTk0MjhjOTExYmIwNGQwMDFkYTI2MjQ1Mzc3MWZiYzM5ZmE5YzY0YWVmMWUwNjI2M2EwMGZkMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
+		>https://calendar.google.com/calendar/u/0?cid=ZjUwZGE1MTI5YTk0MjhjOTExYmIwNGQwMDFkYTI2MjQ1Mzc3MWZiYzM5ZmE5YzY0YWVmMWUwNjI2M2EwMGZkMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t</a
+	> -->
+</p>
