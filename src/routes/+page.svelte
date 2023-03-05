@@ -43,9 +43,7 @@
 	</li>
 	<li>
 		<b>(Uvaly)</b> You can find some cEDH players in Uvaly. Reach them in this Facebook page:
-		<a href="https://www.facebook.com/groups/168893800592267"
-			>https://www.facebook.com/groups/168893800592267</a
-		>
+		<a href="https://www.facebook.com/groups/168893800592267">CLICK ME</a>
 	</li>
 </ul>
 
